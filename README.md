@@ -4,4 +4,4 @@
 
 -----
 
-_PS: I don't even know how someone might stumble to this site. But hey, here you are. This is a __Work in Progress__ for now and I plan to make this a much more simple but engaging site._
+_PS: I don't even know how someone might come to this site. But hey, here you are. This is a __Work in Progress__ for now and I plan to make this a much more simple but engaging site._
