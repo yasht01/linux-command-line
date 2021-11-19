@@ -1,7 +1,10 @@
 > My chapter summaries for [The Linux Command Line 2ed by William Shotts](https://nostarch.com/tlcl2) as part of the _Reading Club_ 30 Days challenge.
 
-[Day 1](./c11.md)
-[Day 2](./c12.md)
+[Day 1 - _The Environment_](./c11.md)
+
+[Day 2 - _Introduction to Vi_](./c12.md)
+
+[Day 3 - _Customising the Shell Prompt_](./c13.md)
 
 -----
 
