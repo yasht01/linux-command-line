@@ -6,6 +6,8 @@
 
 [Day 3 - _Customising the Shell Prompt_](./c13.md)
 
+[Day 4 - _Package Management_](./c14.md)
+
 -----
 
 _PS: I don't even know how someone might come to this site. But hey, here you are. This is a __Work in Progress__ for now and I plan to make this a much more simple but engaging site._
