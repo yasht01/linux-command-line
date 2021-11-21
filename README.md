@@ -8,6 +8,8 @@
 
 [Day 4 - _Package Management_](./c14.md)
 
+[Day 5 - _Storage Media_](./c15.md)
+
 -----
 
 _PS: I don't even know how someone might come to this site. But hey, here you are. This is a __Work in Progress__ for now and I plan to make this a much more simple but engaging site._
