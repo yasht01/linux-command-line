@@ -12,6 +12,7 @@
 
 [Day 6 - _Networking_](./c16.md)
 
+[Day 7 - _Searching for Files_](./c17.md)
 
 -----
 
