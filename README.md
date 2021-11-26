@@ -14,6 +14,10 @@
 
 [Day 7 - _Searching for Files_](./c17.md)
 
+[Day 8 - _Archiving and Backup_](./c18.md)
+
+[Day 9 - _Regular Expressions_](./c19.md)
+
 -----
 
 _PS: I don't even know how someone might come to this site. But hey, here you are. This is a __Work in Progress__ for now and I plan to make this a much more simple but engaging site._
