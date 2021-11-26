@@ -16,7 +16,7 @@
 
 [Day 8 - _Archiving and Backup_](./c18.md)
 
-[Day 9 - _Regular Expressions_](./c19.md)
+[Day 9 & 10 - _Regular Expressions_](./c19.md)
 
 -----
 
