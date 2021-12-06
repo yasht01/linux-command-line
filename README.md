@@ -18,6 +18,8 @@
 
 [Day 9 & 10 - _Regular Expressions_](./c19.md)
 
+[Day 11, 12, 13 & 14 - _Text Processing_](./c20.md)
+
 -----
 
 _PS: I don't even know how someone might come to this site. But hey, here you are. This is a __Work in Progress__ for now and I plan to make this a much more simple but engaging site._
